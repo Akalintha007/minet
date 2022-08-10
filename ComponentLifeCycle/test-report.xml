@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/home/asishk/Documents/blinklist/src/components/organisms/FileUploadCard/index.test.tsx">
+    <testCase name="FileUploadCard Text should render correctly" duration="387"/>
+    <testCase name="FileUploadCard Number of Icons should be 2" duration="56"/>
+    <testCase name="FileUploadCard Button element rendered correctly" duration="53"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/organisms/CommonRoutes/index.test.tsx">
+    <testCase name="CabCard renders correctly" duration="85"/>
+    <testCase name="CabCard Text should render correctly" duration="97"/>
+    <testCase name="CabCard Text should render correctly" duration="71"/>
+    <testCase name="CabCard Text should render correctly" duration="33"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/organisms/JobList/index.test.tsx">
+    <testCase name="Organisms renders Job list" duration="485"/>
+    <testCase name="renders correctly when filter has no items" duration="27"/>
+    <testCase name="renders correctly when filter has items" duration="13"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/organisms/CabCard/index.test.tsx">
+    <testCase name="CabCard renders correctly" duration="131"/>
+    <testCase name="CabCard Text should render correctly" duration="158"/>
+    <testCase name="CabCard Element for ola should be rendered" duration="76"/>
+    <testCase name="CabCard Element rapido should be rendered" duration="49"/>
+    <testCase name="CabCard Element uber should be rendered" duration="57"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/organisms/SideMenu/index.test.tsx">
+    <testCase name="SideMenu Text should render correctly" duration="334"/>
+    <testCase name="SideMenu Text should render correctly" duration="98"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="96"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="87"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="85"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="74"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="90"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="97"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="86"/>
+    <testCase name="SideMenu MenuItem rendered correctly" duration="71"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/organisms/FilterMenu/index.test.tsx">
+    <testCase name="Filter menu organism renders all parts of filter menu" duration="1942"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/organisms/JobSearch/index.test.tsx">
+    <testCase name="Search Bar render whole organism" duration="261"/>
+    <testCase name="Search Bar render skill search field" duration="59"/>
+    <testCase name="Search Bar render location search field " duration="48"/>
+    <testCase name="Search Bar render search button icon" duration="74"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/atoms/InputField/index.test.tsx">
+    <testCase name="Atoms renders input field" duration="382"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/organisms/AcknowledgementCard/index.test.tsx">
+    <testCase name="AcknowledgementCard Text should render correctly" duration="319"/>
+    <testCase name="AcknowledgementCard Number of Icons should be 2" duration="47"/>
+    <testCase name="AcknowledgementCard Button element rendered correctly" duration="47"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/molecules/LocationField/index.test.tsx">
+    <testCase name="Location Field Molecule Random location" duration="160"/>
+    <testCase name="Location Field Snapshot renders location field correctly" duration="37"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/molecules/IconButton/index.test.tsx">
+    <testCase name="Molecules renders filter button" duration="249"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/molecules/MenuItem/index.test.tsx">
+    <testCase name="Molecules renders filter button" duration="217"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/molecules/ChipItem/index.test.tsx">
+    <testCase name="Molecules renders chip" duration="139"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/atoms/Checkbox/index.test.tsx">
+    <testCase name="Atoms renders input field" duration="155"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/organisms/Header/index.test.tsx">
+    <testCase name="Header test renders the app header correctly" duration="207"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/organisms/MetroCard/index.test.tsx">
+    <testCase name="CabCard renders correctly" duration="105"/>
+    <testCase name="CabCard Text should render correctly" duration="123"/>
+    <testCase name="CabCard Text should render correctly" duration="35"/>
+    <testCase name="CabCard Number of Icons should be 2" duration="49"/>
+    <testCase name="CabCard Button element rendered correctly" duration="32"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/atoms/Button/index.test.tsx">
+    <testCase name="it renders Button" duration="207"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/organisms/JobDetailsCard/index.test.tsx">
+    <testCase name="CabCard renders correctly" duration="85"/>
+    <testCase name="CabCard Text should render correctly" duration="68"/>
+    <testCase name="CabCard Text should render correctly" duration="51"/>
+    <testCase name="CabCard Button element rendered correctly" duration="26"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/molecules/AQI/index.test.tsx">
+    <testCase name="AQIIndex renders correctly" duration="50"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/organisms/FindCard/index.test.tsx">
+    <testCase name="Job card test renders the app header correctly" duration="159"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/organisms/JobDesCard/index.test.tsx">
+    <testCase name="Job Description Test renders the job description" duration="150"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/atoms/RadioButton/index.test.tsx">
+    <testCase name="Atoms renders radio button" duration="101"/>
+    <testCase name="Atoms renders snapshot of radio button" duration="31"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/atoms/IconSVG/index.test.tsx">
+    <testCase name="Atoms renders svg icon" duration="53"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/organisms/MainCard/index.test.tsx">
+    <testCase name="Main Card Test renders the main card" duration="236"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/organisms/TabPanel/index.test.tsx">
+    <testCase name="Tab Panel Test renders the tab panel" duration="65"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/molecules/IllustrationData/index.test.tsx">
+    <testCase name="IllustrationData renders correctly" duration="45"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/molecules/AQIGroup/index.test.tsx">
+    <testCase name="AQIIndexLocation renders correctly" duration="72"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/molecules/ListItem/index.test.tsx">
+    <testCase name="List Item molecule Ola list item molecule" duration="118"/>
+    <testCase name="List Item molecule Rapido list item molecule with approx and fare" duration="20"/>
+    <testCase name="List Item molecule Uber list item molecule logo rendering test" duration="17"/>
+    <testCase name="List Item Snapshot renders list item correctly" duration="26"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/molecules/AQILocation/index.test.tsx">
+    <testCase name="AQIIndexGroup renders correctly" duration="56"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/atoms/Typography/index.test.tsx">
+    <testCase name="Typography Render h1" duration="41"/>
+    <testCase name="Typography Render h2" duration="8"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/atoms/Avatar/index.test.tsx">
+    <testCase name="Avatar renders correctly" duration="32"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/atoms/Illustration/index.test.tsx">
+    <testCase name="Atoms renders Illustration" duration="24"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/molecules/ProgressItem/index.test.tsx">
+    <testCase name="Progress Item Grid container" duration="50"/>
+    <testCase name="Progress Item Test using test-id" duration="10"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/atoms/Icon/index.test.tsx">
+    <testCase name="Atoms renders png icon" duration="34"/>
+  </file>
+  <file path="/home/asishk/Documents/blinklist/src/components/atoms/Logo/index.test.tsx">
+    <testCase name="Atoms renders logo" duration="22"/>
+  </file>
+</testExecutions>
